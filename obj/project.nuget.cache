@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "HayidOtmla0=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\itrea\\Downloads\\VirtualCable_Jellyfin_Plugin_With_GitHub\\VirtualCable.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Jellyfin.Server. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Jellyfin.Server",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

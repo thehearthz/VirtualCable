@@ -1,0 +1,11 @@
+{
+  "Name": "VirtualCable",
+  "Description": "Create virtual live TV channels with commercials, pre-rolls, and smart scheduling.",
+  "Version": "1.0.0",
+  "Guid": "b3d7ac85-bb1d-4b12-98d5-01d3b57ea99b",
+  "TargetAbi": "10.10.7",
+  "Category": "Live TV",
+  "Owner": "YourGitHubUser",
+  "Overview": "Virtual cable simulation for Jellyfin Live TV",
+  "ImageUrl": "https://raw.githubusercontent.com/YourGitHubUser/VirtualCable/main/icon.png"
+}
