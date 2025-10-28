@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>VirtualCable</RootNamespace>
+    <AssemblyName>VirtualCable</AssemblyName>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Jellyfin.Server" Version="10.10.7" />
+  </ItemGroup>
+</Project>
